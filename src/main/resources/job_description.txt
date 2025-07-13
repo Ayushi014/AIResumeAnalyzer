@@ -1,0 +1,2 @@
+We are hiring a software engineer with the following skills:
+Java, Python, SQL, Data Structures, OOPs, Git, Cloud
